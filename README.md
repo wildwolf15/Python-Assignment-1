@@ -16,14 +16,10 @@ Two numbers entered by the user
 
 ## Output
 <img width="476" height="161" alt="image" src="https://github.com/user-attachments/assets/b60271b3-3294-4774-bbb2-8ad138f670c5" />
-
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 # In the file Task-2.py:
 
 ## Description
@@ -43,4 +39,4 @@ This program takes a user's first name and last name as input, combines them int
 
 ## Output
 - A greeting message including the user's full name
-- <img width="645" height="105" alt="image" src="https://github.com/user-attachments/assets/ad085311-6016-43b2-a625-ae979c3f179e" />
+<img width="645" height="105" alt="image" src="https://github.com/user-attachments/assets/ad085311-6016-43b2-a625-ae979c3f179e" />
