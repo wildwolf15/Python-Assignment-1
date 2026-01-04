@@ -1,14 +1,14 @@
-#In the file Task-1.py:
+# In the file Task-1.py:
 
-##Description
+## Description
 
 This program takes two numbers as input from the user and performs basic mathematical operations on them.
 
-##Operations Performed
-1. Addition
-2. Subtraction
-3. Multiplication
-4. Division
+## Operations Performed
+-Addition
+-Subtraction
+-Multiplication
+-Division
 
-##Input
+## Input
 Two numbers entered by the user
