@@ -16,10 +16,12 @@ Two numbers entered by the user
 
 ## Output
 <img width="476" height="161" alt="image" src="https://github.com/user-attachments/assets/b60271b3-3294-4774-bbb2-8ad138f670c5" />
+
 <br>
 <br>
 <br>
 <br>
+
 # In the file Task-2.py:
 
 ## Description
