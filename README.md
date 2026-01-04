@@ -19,6 +19,11 @@ Two numbers entered by the user
 
 
 
+
+
+
+
+
 # In the file Task-2.py:
 
 ## Description
