@@ -1,4 +1,4 @@
-# In the file Task-1.py:
+# In the file Task-1.py Math Operations:
 
 ## Description
 
@@ -22,7 +22,7 @@ Two numbers entered by the user
 <br>
 <br>
 
-# In the file Task-2.py:
+# In the file Task-2.py String Concatenation:
 
 ## Description
 
